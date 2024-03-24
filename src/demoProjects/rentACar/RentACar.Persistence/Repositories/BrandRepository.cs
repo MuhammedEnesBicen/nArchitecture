@@ -1,7 +1,7 @@
 ﻿using Core.Persistence.Repositories;
-using Persistence.Contexts;
 using RentACar.Application.Services.Repositories;
 using RentACar.Domain.Entities;
+using RentACar.Persistence.Contexts;
 
 namespace RentACar.Persistence.Repositories
 {

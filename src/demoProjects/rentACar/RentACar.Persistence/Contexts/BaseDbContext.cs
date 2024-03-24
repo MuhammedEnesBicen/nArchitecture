@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using RentACar.Domain.Entities;
 
-namespace Persistence.Contexts
+namespace RentACar.Persistence.Contexts
 {
     public class BaseDbContext : DbContext
     {

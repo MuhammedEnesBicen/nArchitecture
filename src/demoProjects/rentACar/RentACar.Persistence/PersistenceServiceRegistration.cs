@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Persistence.Contexts;
 using RentACar.Application.Services.Repositories;
+using RentACar.Persistence.Contexts;
 using RentACar.Persistence.Repositories;
 
 namespace RentACar.Persistence
