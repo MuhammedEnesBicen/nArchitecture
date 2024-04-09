@@ -7,3 +7,4 @@ Instructor's original repo can be found via this [link](https://github.com/engin
 - Day 1 : Implementation of Architecture
 - Day 2 : CQRS
 - Day 3 : CQRS part 2 & Fluent Validation
+- Day 4 : Complex Modeling & Dynamic Search
